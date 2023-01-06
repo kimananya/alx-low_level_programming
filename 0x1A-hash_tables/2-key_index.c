@@ -1,6 +1,6 @@
 /*
  * File: 2-key_index.c
- * Auth: kimananya Ezeh
+ * Auth: Kimananya
 */
 
 #include "hash_tables.h"

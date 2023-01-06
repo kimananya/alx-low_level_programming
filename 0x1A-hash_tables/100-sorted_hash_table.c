@@ -1,6 +1,6 @@
 /*
  * File: 100-sorted_hash_table.c
- * Auth: kimananya Ezeh
+ * Auth: Kimananya
  */
 
 #include "hash_tables.h"

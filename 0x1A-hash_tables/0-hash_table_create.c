@@ -1,7 +1,7 @@
 /*
  * File: 0-hash_table_create.c
- * Auth: Kimananya Ezeh
- */
+ * Auth: Kimananya
+ * */
 
 #include "hash_tables.h"
 
@@ -29,3 +29,4 @@ hash_table_t *hash_table_create(unsigned long int size)
 		ht->array[i] = NULL;
 
 	return (ht);
+}

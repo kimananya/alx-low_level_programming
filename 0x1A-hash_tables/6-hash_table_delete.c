@@ -1,6 +1,6 @@
 /*
  * File: 6-hash_table_delete.c
- * Auth: kimananya Ezeh
+ * Auth: Kimananya
 */
 
 #include "hash_tables.h"

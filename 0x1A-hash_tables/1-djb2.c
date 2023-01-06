@@ -1,6 +1,6 @@
 /*
  * File: 1-djb2.c
- * Auth: kimananya Ezeh
+ * Auth: Kimananya
  */
 
 #include "hash_tables.h"

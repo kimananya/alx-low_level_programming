@@ -1,6 +1,6 @@
 /*
  * File: 5-hash_table_print.c
- * Auth: kimananya Ezeh
+ * Auth: Kimananya
 */
 
 #include "hash_tables.h"
